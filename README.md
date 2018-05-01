@@ -4,9 +4,9 @@
 
 0. I will only undertake honest and moral work. I will stand firm against any requirement that exploits or harms people.
 
-1. I will respect the learnings of those programmers who came before me, and share my learnings with those to come.
+1. I will respect the learnings of those programmers who came before me and share my learnings with those to come.
 
-2. I will remember that programming is art as well as science, and that warmth, empathy and understanding may outweigh a clever algorithm or technical argument.
+2. I will remember that programming is art as well as science, and that warmth, empathy, and understanding may outweigh a clever algorithm or technical argument.
 
 3. I will not be ashamed to say "I don't know", and I will ask for help when I am stuck.
 
@@ -31,7 +31,7 @@ Inspired by the [Modern Hippocratic Oath](https://en.wikipedia.org/wiki/Hippocra
 
 My intention is to collaboratively write an oath that could be spread in my community. I think the importance of considering the impact of our actions as coders is huge, and not talked about enough.
 
-A longer term goal would be to convince some companies to only hire developers who have taken the oath. Along the same lines if you had publicly taken the oath and your company wanted you to do something you feel is wrong, you would have a document to point at and discuss.
+A longer term goal would be to convince some companies to only hire developers who have taken the oath. Along the same lines, if you had publicly taken the oath and your company wanted you to do something you feel is wrong, you would have a document to point at and discuss.
 
 **Signing**
 
